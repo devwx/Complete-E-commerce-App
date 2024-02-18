@@ -1,4 +1,4 @@
-# eCommerce Platform
+# Complete MERN Stack - eCommerce Platform
 
 > eCommerce platform built with the MERN stack & Redux.
 
